@@ -39,7 +39,7 @@ class RegularExpressions
 
     public static function postalCode() : string
     {
-        return '/^\d{5}-?\d{4}$/';
+        return '/^\d{5}(-\d{4})?$/';
     }
 
     public static function alphaCaps() : string

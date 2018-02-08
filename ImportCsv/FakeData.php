@@ -20,7 +20,7 @@ for ($i = 0; $i < 1000; $i++) {
     }
 
     $output .= sprintf(
-        '"%s","%s","%s","%s","%s,"%s","%s","%s","%s","%s","%s","%s","%s","%s","%s"',
+        '"%s","%s","%s","%s","%s","%s","%s","%s","%s","%s","%s","%s","%s","%s","%s","%s"',
         $faker->unique()->uuid,
         $faker->name,
         $faker->phoneNumber,
