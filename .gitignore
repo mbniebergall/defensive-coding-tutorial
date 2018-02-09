@@ -1,6 +1,4 @@
 .idea
 /Cryptography/CryptographyAnswers.php
-/ImportCsv/ImportData.php
-/ImportCsv/ImportModel.php
-/ImportCsv/InvalidDataException.php
+/Cryptography/CryptographyModule.txt
 /vendor/
